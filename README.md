@@ -27,9 +27,9 @@ Installation and usage
 3. Open http://smod and get "It works!"
 
 4. To test tokens    
-      ⋅⋅4. Open Postman and get one token: POST ```http://smod/api/v1/authenticate```
-      ⋅⋅4. Authorization: ```Basic, Username:Password test:test```
-      ⋅⋅4. Headers: 
+⋅⋅4. Open Postman and get one token: POST ```http://smod/api/v1/authenticate```
+⋅⋅4. Authorization: ```Basic, Username:Password test:test```
+⋅⋅4. Headers: 
 	```Content-Type application/json```	
 
 Hit Send, example responce:
