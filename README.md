@@ -26,10 +26,10 @@ Installation and usage
 2. Setup connection to postgres on smod/config/setting.php and fill using db_dump_smod.sql
 3. Open http://smod and get "It works!"
 
-4. To test tokens    
-*  Open Postman and get one token: POST ```http://smod/api/v1/authenticate```
-*  Authorization: ```Basic, Username:Password test:test```
-*  Headers: 
+4. To test tokens:    
+	*  Open Postman and get one token: POST ```http://smod/api/v1/authenticate```
+	*  Authorization: ```Basic, Username:Password test:test```
+	*  Headers: 
 	```Content-Type application/json```	
 
 Hit Send, example responce:
