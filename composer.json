@@ -1,0 +1,43 @@
+{
+    "name": "SMOD",
+    "description": "",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/src"
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "composer dumpautoload -o"
+        ],
+        "post-update-cmd": [
+            "composer dumpautoload -o"
+        ]
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17",
+        "slim/twig-view": "^2.0",
+        "cartalyst/sentinel": "^2.0",
+        "illuminate/database": "^5.2",
+        "illuminate/events": "^5.2",
+	    "symfony/http-foundation": "^3.0",
+        "slim/csrf": "^0.6.0",
+        "slim/http-cache": "^0.3.0",
+        "slim/flash": "^0.1.0",
+	    "siriusphp/validation": "1.2.*",
+        "tuupola/slim-jwt-auth": "^2.3",
+        "tuupola/slim-basic-auth": "^2.2",
+        "tuupola/base62": "^0.7.0",
+        "j4mie/idiorm": "^1.5",
+        "fzaninotto/faker": "^1.6"
+    },
+    "require-dev": {
+    	"phpunit/phpunit": "5.5.*"
+    }
+}

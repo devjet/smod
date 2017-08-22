@@ -1,0 +1,225 @@
+[2017-01-16 11:48:42] slim-app.INFO: Home page action dispatched [] {"uid":"cb4a004"}
+[2017-01-16 15:28:56] slim-app.WARNING: Token not found [] {"uid":"84bc7df"}
+[2017-01-16 15:39:17] slim-app.WARNING: Token not found [] {"uid":"18780dd"}
+[2017-01-16 15:39:22] slim-app.WARNING: Token not found [] {"uid":"b83dc3a"}
+[2017-01-16 15:39:34] slim-app.WARNING: Token not found [] {"uid":"3cd3cda"}
+[2017-01-16 15:39:46] slim-app.WARNING: Token not found [] {"uid":"176f879"}
+[2017-01-16 15:39:48] slim-app.WARNING: Token not found [] {"uid":"360dd72"}
+[2017-01-16 15:39:48] slim-app.WARNING: Token not found [] {"uid":"1131cb0"}
+[2017-01-16 15:40:09] slim-app.WARNING: Token not found [] {"uid":"37a4d69"}
+[2017-01-16 15:40:29] slim-app.WARNING: Token not found [] {"uid":"17d7a52"}
+[2017-01-16 15:40:32] slim-app.WARNING: Token not found [] {"uid":"46e987e"}
+[2017-01-16 15:41:06] slim-app.WARNING: Token not found [] {"uid":"d23f61c"}
+[2017-01-16 15:41:33] slim-app.WARNING: Token not found [] {"uid":"d7605d4"}
+[2017-01-16 15:41:44] slim-app.WARNING: Token not found [] {"uid":"e07905c"}
+[2017-01-16 15:41:49] slim-app.WARNING: Token not found [] {"uid":"04aadb5"}
+[2017-01-16 15:42:18] slim-app.WARNING: Token not found [] {"uid":"cd99097"}
+[2017-01-16 15:42:27] slim-app.WARNING: Token not found [] {"uid":"3da8c35"}
+[2017-01-16 15:42:27] slim-app.WARNING: Token not found [] {"uid":"397e736"}
+[2017-01-16 15:42:43] slim-app.WARNING: Token not found [] {"uid":"d9e2465"}
+[2017-01-16 15:42:48] slim-app.WARNING: Token not found [] {"uid":"f3a28d4"}
+[2017-01-16 16:13:36] slim-app.INFO: Home page action dispatched [] {"uid":"e05baf2"}
+[2017-01-16 16:15:40] slim-app.INFO: Home page action dispatched [] {"uid":"6836e74"}
+[2017-01-16 16:15:43] slim-app.WARNING: Token not found [] {"uid":"08f90a4"}
+[2017-01-16 16:58:45] slim-app.DEBUG: Using token from environment [] {"uid":"6f44fe2"}
+[2017-01-16 16:58:45] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg1MDUsImV4cCI6MTQ4NDU4NTcwNSwianRpIjoiN0QySE4xSG85SUpHODJlMHN2N1JIeiIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.PTMYL00TWVLNWG4r1oXcm3QK4ZV2IiDH0Z_8EhDUW04"] {"uid":"6f44fe2"}
+[2017-01-16 16:59:16] slim-app.DEBUG: Using token from environment [] {"uid":"44d5b53"}
+[2017-01-16 16:59:16] slim-app.WARNING: Signature verification failed ["\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g\""] {"uid":"44d5b53"}
+[2017-01-16 16:59:22] slim-app.DEBUG: Using token from environment [] {"uid":"49eb372"}
+[2017-01-16 16:59:22] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g"] {"uid":"49eb372"}
+[2017-01-16 17:03:01] slim-app.DEBUG: Using token from environment [] {"uid":"84a8ab4"}
+[2017-01-16 17:03:01] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g"] {"uid":"84a8ab4"}
+[2017-01-16 17:04:56] slim-app.DEBUG: Using token from environment [] {"uid":"d52878f"}
+[2017-01-16 17:04:56] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g"] {"uid":"d52878f"}
+[2017-01-16 17:04:57] slim-app.DEBUG: Using token from environment [] {"uid":"30b1c68"}
+[2017-01-16 17:04:57] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g"] {"uid":"30b1c68"}
+[2017-01-16 17:05:27] slim-app.DEBUG: Using token from environment [] {"uid":"e8c58b5"}
+[2017-01-16 17:05:27] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g"] {"uid":"e8c58b5"}
+[2017-01-16 17:06:23] slim-app.DEBUG: Using token from environment [] {"uid":"18313fb"}
+[2017-01-16 17:06:23] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1Nzg3NDEsImV4cCI6MTQ4NDU4NTk0MSwianRpIjoiNmljRGEzS3R6aHloYW1kRTc0WTNmUCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.Yab_6a858p35J8ozDee9QksnZNzPuO1r13dGlQ6WP3g"] {"uid":"18313fb"}
+[2017-01-16 17:06:50] slim-app.DEBUG: Using token from environment [] {"uid":"210d7f6"}
+[2017-01-16 17:06:50] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1NzkxOTgsImV4cCI6MTQ4NDU4NjM5OCwianRpIjoiM3Jxa3RLeVNxVUhtb0ZIeERwQ0doMCIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.M7aJkbwtyFVipTb7b4Z8gCI8vCKCO8SkW4JD_DK1GaI"] {"uid":"210d7f6"}
+[2017-01-16 17:07:55] slim-app.DEBUG: Using token from environment [] {"uid":"9407f20"}
+[2017-01-16 17:08:04] slim-app.DEBUG: Using token from environment [] {"uid":"920e7d7"}
+[2017-01-16 17:08:09] slim-app.DEBUG: Using token from environment [] {"uid":"014c135"}
+[2017-01-16 17:08:09] slim-app.INFO: Conversations action dispatched [] {"uid":"014c135"}
+[2017-01-16 17:21:17] slim-app.DEBUG: Using token from environment [] {"uid":"98a0068"}
+[2017-01-16 17:21:17] slim-app.WARNING: Key may not be empty ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1ODAwNjUsImV4cCI6MTQ4NDU4NzI2NSwianRpIjoiNHd3cGdTNVJpQjdZd1RKWW84c3pXUSIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.fc-RVb-W_jsVw7JVAhTJ6MiynTJHgFS52LJV9U85YEA"] {"uid":"98a0068"}
+[2017-01-16 17:22:25] slim-app.DEBUG: Using token from environment [] {"uid":"ac2d6ee"}
+[2017-01-16 17:22:25] slim-app.INFO: Conversations action dispatched [] {"uid":"ac2d6ee"}
+[2017-01-16 17:22:57] slim-app.DEBUG: Using token from environment [] {"uid":"0105fb1"}
+[2017-01-16 17:22:57] slim-app.INFO: Conversations action dispatched [] {"uid":"0105fb1"}
+[2017-01-16 17:22:58] slim-app.DEBUG: Using token from environment [] {"uid":"75b7a89"}
+[2017-01-16 17:22:58] slim-app.INFO: Conversations action dispatched [] {"uid":"75b7a89"}
+[2017-01-16 17:24:19] slim-app.DEBUG: Using token from environment [] {"uid":"9532a24"}
+[2017-01-16 17:24:19] slim-app.INFO: Conversations action dispatched [] {"uid":"9532a24"}
+[2017-01-16 17:25:48] slim-app.DEBUG: Using token from environment [] {"uid":"838edce"}
+[2017-01-16 17:25:48] slim-app.INFO: Conversations action dispatched [] {"uid":"838edce"}
+[2017-01-16 17:33:42] slim-app.DEBUG: Using token from environment [] {"uid":"701926a"}
+[2017-01-16 17:33:42] slim-app.INFO: Conversations action dispatched [] {"uid":"701926a"}
+[2017-01-16 17:33:44] slim-app.DEBUG: Using token from environment [] {"uid":"89d6fa6"}
+[2017-01-16 17:33:44] slim-app.INFO: Conversations action dispatched [] {"uid":"89d6fa6"}
+[2017-01-16 17:34:41] slim-app.DEBUG: Using token from environment [] {"uid":"a18a0c1"}
+[2017-01-16 17:34:41] slim-app.INFO: Conversations action dispatched [] {"uid":"a18a0c1"}
+[2017-01-16 17:51:10] slim-app.DEBUG: Using token from environment [] {"uid":"c43c8cb"}
+[2017-01-16 17:53:27] slim-app.WARNING: Token not found [] {"uid":"5e5e08d"}
+[2017-01-16 17:53:54] slim-app.WARNING: Token not found [] {"uid":"6664478"}
+[2017-01-16 17:56:32] slim-app.WARNING: Token not found [] {"uid":"a31208d"}
+[2017-01-16 17:56:49] slim-app.WARNING: Token not found [] {"uid":"a88c379"}
+[2017-01-16 18:03:50] slim-app.DEBUG: Using token from environment [] {"uid":"e162bb7"}
+[2017-01-16 18:03:50] slim-app.WARNING: Signature verification failed ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ1ODI2MjAsImV4cCI6MTQ4NDU4OTgyMCwianRpIjoidW5zVGlHd1NrZmFOYTI1cmJqVks0Iiwic3ViIjoidGVzdCIsInNjb3BlIjpbInNjb3BlLlJfT05FIiwic2NvcGUuUldfT05FIiwic2NvcGUuUldfQUxMIl19.dHUsTC_wzRol5-RFP_Y7tjwKl5QaEDFr8XgS6hmS3z"] {"uid":"e162bb7"}
+[2017-01-16 18:05:11] slim-app.DEBUG: Using token from environment [] {"uid":"891420b"}
+[2017-01-16 18:05:11] slim-app.INFO: Conversations action dispatched [] {"uid":"891420b"}
+[2017-01-16 21:39:35] slim-app.INFO: Home page action dispatched [] {"uid":"f869cb0"}
+[2017-01-16 21:39:41] slim-app.WARNING: Token not found [] {"uid":"45d0ff7"}
+[2017-01-16 21:39:56] slim-app.WARNING: Token not found [] {"uid":"71b41df"}
+[2017-01-16 21:40:11] slim-app.WARNING: Token not found [] {"uid":"cf6eb66"}
+[2017-01-16 21:41:22] slim-app.DEBUG: Using token from environment [] {"uid":"5833638"}
+[2017-01-16 21:41:23] slim-app.DEBUG: Using token from environment [] {"uid":"bf5d2e8"}
+[2017-01-16 21:41:34] slim-app.WARNING: Token not found [] {"uid":"e6a174f"}
+[2017-01-16 21:41:47] slim-app.DEBUG: Using token from environment [] {"uid":"e2d9748"}
+[2017-01-16 21:42:16] slim-app.DEBUG: Using token from environment [] {"uid":"260084e"}
+[2017-01-16 21:43:06] slim-app.DEBUG: Using token from environment [] {"uid":"2a81555"}
+[2017-01-16 21:43:07] slim-app.DEBUG: Using token from environment [] {"uid":"cbffaff"}
+[2017-01-16 21:43:07] slim-app.DEBUG: Using token from environment [] {"uid":"0e2fe0d"}
+[2017-01-16 21:43:07] slim-app.DEBUG: Using token from environment [] {"uid":"3fa16d9"}
+[2017-01-16 21:43:08] slim-app.DEBUG: Using token from environment [] {"uid":"a44d721"}
+[2017-01-16 21:43:08] slim-app.DEBUG: Using token from environment [] {"uid":"faafd6e"}
+[2017-01-16 21:43:08] slim-app.DEBUG: Using token from environment [] {"uid":"5aa43ba"}
+[2017-01-16 21:43:37] slim-app.DEBUG: Using token from environment [] {"uid":"8b138cd"}
+[2017-01-16 21:43:38] slim-app.DEBUG: Using token from environment [] {"uid":"870bfde"}
+[2017-01-16 21:43:50] slim-app.DEBUG: Using token from environment [] {"uid":"c88cf1e"}
+[2017-01-16 21:43:50] slim-app.INFO: Conversations action dispatched [] {"uid":"c88cf1e"}
+[2017-01-16 21:44:43] slim-app.DEBUG: Using token from environment [] {"uid":"31ac974"}
+[2017-01-16 21:44:43] slim-app.INFO: Conversations action dispatched [] {"uid":"31ac974"}
+[2017-01-16 21:44:44] slim-app.DEBUG: Using token from environment [] {"uid":"f41bde3"}
+[2017-01-16 21:44:44] slim-app.INFO: Conversations action dispatched [] {"uid":"f41bde3"}
+[2017-01-16 21:44:45] slim-app.DEBUG: Using token from environment [] {"uid":"90f2925"}
+[2017-01-16 21:44:45] slim-app.INFO: Conversations action dispatched [] {"uid":"90f2925"}
+[2017-01-16 21:47:20] slim-app.DEBUG: Using token from environment [] {"uid":"4c82369"}
+[2017-01-16 21:47:20] slim-app.INFO: Conversations action dispatched [] {"uid":"4c82369"}
+[2017-01-16 21:47:21] slim-app.DEBUG: Using token from environment [] {"uid":"8bb64b5"}
+[2017-01-16 21:47:21] slim-app.INFO: Conversations action dispatched [] {"uid":"8bb64b5"}
+[2017-01-16 21:47:48] slim-app.DEBUG: Using token from environment [] {"uid":"dbba4a8"}
+[2017-01-16 21:47:48] slim-app.INFO: Conversations action dispatched [] {"uid":"dbba4a8"}
+[2017-01-16 21:47:51] slim-app.WARNING: Token not found [] {"uid":"19ebc28"}
+[2017-01-16 21:47:52] slim-app.WARNING: Token not found [] {"uid":"0f6aa4d"}
+[2017-01-17 09:34:04] slim-app.DEBUG: Using token from environment [] {"uid":"7329a1e"}
+[2017-01-17 09:34:04] slim-app.INFO: Conversations action dispatched [] {"uid":"7329a1e"}
+[2017-01-17 13:47:13] slim-app.INFO: Home page action dispatched [] {"uid":"f251a9a"}
+[2017-01-17 13:48:40] slim-app.INFO: Home page action dispatched [] {"uid":"de99981"}
+[2017-01-17 13:49:18] slim-app.INFO: Home page action dispatched [] {"uid":"92dec28"}
+[2017-01-17 13:50:59] slim-app.INFO: Home page action dispatched [] {"uid":"22adea9"}
+[2017-01-17 13:51:19] slim-app.INFO: Home page action dispatched [] {"uid":"3440130"}
+[2017-01-17 13:51:39] slim-app.INFO: Home page action dispatched [] {"uid":"ecb5cc4"}
+[2017-01-17 13:51:51] slim-app.INFO: Home page action dispatched [] {"uid":"ba01707"}
+[2017-01-17 13:52:01] slim-app.INFO: Home page action dispatched [] {"uid":"0f24dc4"}
+[2017-01-17 13:53:01] slim-app.INFO: Home page action dispatched [] {"uid":"66ff299"}
+[2017-01-17 13:55:38] slim-app.INFO: Home page action dispatched [] {"uid":"1d8fe07"}
+[2017-01-17 13:56:06] slim-app.INFO: Home page action dispatched [] {"uid":"8a678a8"}
+[2017-01-17 13:58:02] slim-app.INFO: Home page action dispatched [] {"uid":"c51c193"}
+[2017-01-17 14:00:09] slim-app.INFO: Home page action dispatched [] {"uid":"3681543"}
+[2017-01-17 14:01:04] slim-app.INFO: Home page action dispatched [] {"uid":"83235f0"}
+[2017-01-17 14:02:09] slim-app.INFO: Home page action dispatched [] {"uid":"c963919"}
+[2017-01-17 14:02:46] slim-app.INFO: Home page action dispatched [] {"uid":"091dc5d"}
+[2017-01-17 14:03:30] slim-app.INFO: Home page action dispatched [] {"uid":"d09878c"}
+[2017-01-17 14:03:57] slim-app.INFO: Home page action dispatched [] {"uid":"c7e0a0e"}
+[2017-01-17 14:04:24] slim-app.INFO: Home page action dispatched [] {"uid":"47cce57"}
+[2017-01-17 14:04:59] slim-app.INFO: Home page action dispatched [] {"uid":"1af2c4d"}
+[2017-01-17 14:05:25] slim-app.INFO: Home page action dispatched [] {"uid":"18ef45a"}
+[2017-01-17 14:06:10] slim-app.INFO: Home page action dispatched [] {"uid":"4067b70"}
+[2017-01-17 14:07:25] slim-app.INFO: Home page action dispatched [] {"uid":"6d07d16"}
+[2017-01-17 14:08:33] slim-app.INFO: Home page action dispatched [] {"uid":"ab1bd90"}
+[2017-01-17 14:08:53] slim-app.INFO: Home page action dispatched [] {"uid":"5eb2852"}
+[2017-01-17 14:09:55] slim-app.INFO: Home page action dispatched [] {"uid":"22403c6"}
+[2017-01-17 14:10:34] slim-app.INFO: Home page action dispatched [] {"uid":"dda9108"}
+[2017-01-17 14:10:58] slim-app.INFO: Home page action dispatched [] {"uid":"50337d4"}
+[2017-01-17 14:13:54] slim-app.INFO: Home page action dispatched [] {"uid":"d81a629"}
+[2017-01-17 14:14:36] slim-app.INFO: Home page action dispatched [] {"uid":"4e7c666"}
+[2017-01-17 14:15:04] slim-app.INFO: Home page action dispatched [] {"uid":"6601b64"}
+[2017-01-17 14:15:42] slim-app.INFO: Home page action dispatched [] {"uid":"cd8ba47"}
+[2017-01-17 14:16:21] slim-app.INFO: Home page action dispatched [] {"uid":"c6f73d3"}
+[2017-01-17 14:17:03] slim-app.INFO: Home page action dispatched [] {"uid":"e03fb9f"}
+[2017-01-17 14:17:54] slim-app.INFO: Home page action dispatched [] {"uid":"0002018"}
+[2017-01-17 14:18:42] slim-app.INFO: Home page action dispatched [] {"uid":"1d90e9e"}
+[2017-01-17 14:19:31] slim-app.INFO: Home page action dispatched [] {"uid":"96d3cbb"}
+[2017-01-17 14:20:44] slim-app.INFO: Home page action dispatched [] {"uid":"f58077b"}
+[2017-01-17 14:21:27] slim-app.INFO: Home page action dispatched [] {"uid":"0e838b3"}
+[2017-01-17 14:21:28] slim-app.INFO: Home page action dispatched [] {"uid":"b513622"}
+[2017-01-17 14:21:29] slim-app.INFO: Home page action dispatched [] {"uid":"984d2eb"}
+[2017-01-17 14:24:10] slim-app.INFO: Home page action dispatched [] {"uid":"3936150"}
+[2017-01-17 14:24:11] slim-app.INFO: Home page action dispatched [] {"uid":"9dd25d3"}
+[2017-01-17 14:24:12] slim-app.INFO: Home page action dispatched [] {"uid":"b4e04dc"}
+[2017-01-17 14:24:33] slim-app.INFO: Home page action dispatched [] {"uid":"8363359"}
+[2017-01-17 14:27:20] slim-app.INFO: Home page action dispatched [] {"uid":"bf12382"}
+[2017-01-17 14:28:45] slim-app.INFO: Home page action dispatched [] {"uid":"803039a"}
+[2017-01-17 14:29:40] slim-app.INFO: Home page action dispatched [] {"uid":"1ffd9f3"}
+[2017-01-17 14:31:12] slim-app.INFO: Home page action dispatched [] {"uid":"d7a70de"}
+[2017-01-17 14:32:00] slim-app.INFO: Home page action dispatched [] {"uid":"3208d1f"}
+[2017-01-17 14:37:49] slim-app.INFO: Home page action dispatched [] {"uid":"0e43e9b"}
+[2017-01-17 14:38:11] slim-app.INFO: Home page action dispatched [] {"uid":"9eb9898"}
+[2017-01-17 15:32:26] slim-app.INFO: Home page action dispatched [] {"uid":"4a7616f"}
+[2017-01-17 15:33:23] slim-app.INFO: Home page action dispatched [] {"uid":"c8f21e5"}
+[2017-01-17 15:33:30] slim-app.INFO: Home page action dispatched [] {"uid":"7a6605c"}
+[2017-01-17 15:44:32] slim-app.INFO: Home page action dispatched [] {"uid":"9a8f9db"}
+[2017-01-17 15:44:53] slim-app.INFO: Home page action dispatched [] {"uid":"410f74a"}
+[2017-01-17 15:46:25] slim-app.INFO: Home page action dispatched [] {"uid":"da882bf"}
+[2017-01-17 15:47:08] slim-app.INFO: Home page action dispatched [] {"uid":"f37bb1b"}
+[2017-01-17 15:47:23] slim-app.INFO: Home page action dispatched [] {"uid":"59fef94"}
+[2017-01-17 15:47:25] slim-app.INFO: Home page action dispatched [] {"uid":"016b182"}
+[2017-01-17 15:47:26] slim-app.INFO: Home page action dispatched [] {"uid":"050c64e"}
+[2017-01-17 15:47:27] slim-app.INFO: Home page action dispatched [] {"uid":"b31bec7"}
+[2017-01-17 15:47:55] slim-app.INFO: Home page action dispatched [] {"uid":"008afb2"}
+[2017-01-17 15:47:56] slim-app.INFO: Home page action dispatched [] {"uid":"41896e7"}
+[2017-01-17 15:48:12] slim-app.INFO: Home page action dispatched [] {"uid":"e3153ad"}
+[2017-01-17 15:48:31] slim-app.INFO: Home page action dispatched [] {"uid":"e0b3d06"}
+[2017-01-17 15:48:39] slim-app.INFO: Home page action dispatched [] {"uid":"e764b47"}
+[2017-01-17 15:48:55] slim-app.INFO: Home page action dispatched [] {"uid":"d44442e"}
+[2017-01-17 15:50:18] slim-app.INFO: Home page action dispatched [] {"uid":"e3a4892"}
+[2017-01-17 15:50:29] slim-app.INFO: Home page action dispatched [] {"uid":"a62fc7d"}
+[2017-01-17 15:52:32] slim-app.INFO: Home page action dispatched [] {"uid":"41e8703"}
+[2017-01-17 15:52:50] slim-app.INFO: Home page action dispatched [] {"uid":"55b6f27"}
+[2017-01-17 15:53:04] slim-app.INFO: Home page action dispatched [] {"uid":"b618bb2"}
+[2017-01-17 15:55:51] slim-app.INFO: Home page action dispatched [] {"uid":"417b721"}
+[2017-01-17 15:56:28] slim-app.INFO: Home page action dispatched [] {"uid":"5a2809d"}
+[2017-01-17 15:59:10] slim-app.INFO: Home page action dispatched [] {"uid":"3e25887"}
+[2017-01-17 16:04:47] slim-app.INFO: Home page action dispatched [] {"uid":"1883b56"}
+[2017-01-17 16:04:57] slim-app.INFO: Home page action dispatched [] {"uid":"73e282e"}
+[2017-01-17 16:07:59] slim-app.INFO: Home page action dispatched [] {"uid":"45966ff"}
+[2017-01-17 16:08:08] slim-app.INFO: Home page action dispatched [] {"uid":"06cbcac"}
+[2017-01-17 16:09:01] slim-app.INFO: Home page action dispatched [] {"uid":"76fc79a"}
+[2017-01-17 16:10:09] slim-app.INFO: Home page action dispatched [] {"uid":"d625ae3"}
+[2017-01-17 16:10:29] slim-app.INFO: Home page action dispatched [] {"uid":"83b73fd"}
+[2017-01-17 16:27:51] slim-app.INFO: Home page action dispatched [] {"uid":"057dfb4"}
+[2017-01-17 16:32:01] slim-app.INFO: Home page action dispatched [] {"uid":"32ee8ea"}
+[2017-01-17 16:32:10] slim-app.INFO: Home page action dispatched [] {"uid":"31c0653"}
+[2017-01-17 16:32:33] slim-app.INFO: Home page action dispatched [] {"uid":"a2a844b"}
+[2017-01-17 16:32:59] slim-app.INFO: Home page action dispatched [] {"uid":"f4ad8dd"}
+[2017-01-17 16:40:11] slim-app.INFO: Home page action dispatched [] {"uid":"787063d"}
+[2017-01-17 16:40:24] slim-app.INFO: Home page action dispatched [] {"uid":"303fb22"}
+[2017-01-17 16:42:37] slim-app.INFO: Home page action dispatched [] {"uid":"b3a6e84"}
+[2017-01-17 16:45:58] slim-app.INFO: Home page action dispatched [] {"uid":"1609f1c"}
+[2017-01-17 16:46:11] slim-app.INFO: Home page action dispatched [] {"uid":"685f352"}
+[2017-01-17 16:47:38] slim-app.INFO: Home page action dispatched [] {"uid":"88cbc77"}
+[2017-01-17 16:47:39] slim-app.INFO: Home page action dispatched [] {"uid":"adaacb1"}
+[2017-01-17 16:48:29] slim-app.INFO: Home page action dispatched [] {"uid":"d506d55"}
+[2017-01-17 16:49:04] slim-app.INFO: Home page action dispatched [] {"uid":"dd337ad"}
+[2017-01-17 16:49:30] slim-app.INFO: Home page action dispatched [] {"uid":"f160b02"}
+[2017-01-17 16:49:39] slim-app.INFO: Home page action dispatched [] {"uid":"44e3438"}
+[2017-01-17 16:49:44] slim-app.INFO: Home page action dispatched [] {"uid":"997b68b"}
+[2017-01-17 16:50:10] slim-app.INFO: Home page action dispatched [] {"uid":"e5d5834"}
+[2017-01-17 16:50:33] slim-app.INFO: Home page action dispatched [] {"uid":"61773bd"}
+[2017-01-17 16:52:36] slim-app.INFO: Home page action dispatched [] {"uid":"2470f49"}
+[2017-01-17 16:53:23] slim-app.INFO: Home page action dispatched [] {"uid":"e3b4f03"}
+[2017-01-17 16:53:32] slim-app.INFO: Home page action dispatched [] {"uid":"a81a82f"}
+[2017-01-17 16:54:11] slim-app.DEBUG: Using token from environment [] {"uid":"258f13a"}
+[2017-01-17 16:54:11] slim-app.INFO: Conversations action dispatched [] {"uid":"258f13a"}
+[2017-01-17 16:58:58] slim-app.INFO: Home page action dispatched [] {"uid":"e3320a2"}
+[2017-01-17 16:59:41] slim-app.INFO: Home page action dispatched [] {"uid":"9152179"}
+[2017-01-17 17:04:31] slim-app.DEBUG: Using token from environment [] {"uid":"655a5a5"}
+[2017-01-17 17:04:31] slim-app.INFO: Conversations action dispatched [] {"uid":"655a5a5"}
+[2017-01-17 17:04:33] slim-app.DEBUG: Using token from environment [] {"uid":"e6d177a"}
+[2017-01-17 17:04:33] slim-app.WARNING: Null result with non-null input ["eyJ0eXAiOiJKV1QiLCJhbGcidOiJIUzI1NiJ9.eyJpYXQiOjE0ODQ2NjU0NjEsImV4cCI6MTQ4NDY3MjY2MSwianRpIjoiNmI0TGRzVkpEZURwTkNTZVVya2JhNyIsInN1YiI6InRlc3QiLCJzY29wZSI6WyJzY29wZS5SX09ORSIsInNjb3BlLlJXX09ORSIsInNjb3BlLlJXX0FMTCJdfQ.JkO8ZNjGTOts1sw-baWOA29J4qA-74L8sW3P6tMltHw"] {"uid":"e6d177a"}
+[2017-01-17 17:34:41] slim-app.INFO: Home page action dispatched [] {"uid":"3d2bac3"}
+[2017-01-17 18:11:40] slim-app.DEBUG: Using token from environment [] {"uid":"95a84a2"}
+[2017-01-17 18:11:40] slim-app.INFO: Conversations action should be dispatched here.. [] {"uid":"95a84a2"}
