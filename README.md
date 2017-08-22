@@ -6,13 +6,13 @@ Result of 2 day successfully done (Advanced) work on competition task.
 #### Storing and retrieving message data 
 Objectives:
 ------
-######Required (Middle): 
+###### Required (Middle): 
 >Using existing DataBase model, create api backend for retrieving messages.
 >Each message has member, group of memebers, message group, message service and can have an attachment
 >Message is a part of conversation. Each member have device.
 >API Communication should be protected and authorized by the tokens.
 
-######Advanced (Senior):
+###### Advanced (Senior):
 >all above, plus optimized and normalized DataBase structure.
 
 
